@@ -1,0 +1,27 @@
+body{
+    background-image: url('questions.png');
+    text-align: center;
+}
+input{
+    height: 30px;
+    width: 200px;
+    margin-top: 20px
+}
+button{
+    height: 40px;
+    background-color: darkcyan;
+    border-radius: 7px;
+
+
+}
+p{
+    font-size: 24px;
+    font-family: "DejaVu Sans";
+    color: blue;
+
+}
+#array{
+    float: left;
+
+}
+
